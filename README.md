@@ -39,3 +39,15 @@ Includes **owner-only minting**, **token burning by holders**, and full unit tes
 ---
 
 ## 📂 Project Structure
+mytoken-erc20/
+├── contracts/
+│ └── MyToken.sol
+├── ignition/
+│ └── modules/
+│ └── MyToken.js
+├── test/
+│ └── token.test.js
+├── .env.example
+├── hardhat.config.js
+├── package.json
+├── README.md
